@@ -1,3 +1,7 @@
+Quick demo app to track live donations for both individuals and groups.
+<img width="502" alt="image" src="https://github.com/LALCO1011/-websocket-demo/assets/66398558/097504fb-9dde-4800-bb08-79be897af79e">
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
